@@ -13,6 +13,7 @@ This repository contains the scripts used to generate the working dataset and an
  - All the analysis use the file generated in the previous step and that can be found in the folder **Working_dataset**.
  - The script entitled **Genetic_diversity_laitudinal_bands.R** is used to create latitudinal plot in Figure 1 and Figure S1.
  - The script entitled **Linear_regression.R** is used to perform the linear regression analysis and create Figure 1a–c;e–g.
+ - The script entitled **Sampling.R** is used to create Figure 1d and Figure S4–S7.
  - The script entitled **Logistic_regression.R** is used to perform the logistic regression analysis and create Figure S2.
  - The script entitled **Randomization.R** is used to perform the randomization procedure and create the plot in Figure S3.
  - The script entitled **Fisher_test.R** is used to perform Fisher's test.
