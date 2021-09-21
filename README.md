@@ -5,7 +5,7 @@ This repository contains the scripts used to generate the working dataset and an
 ## Step 1: Generating working dataset
 
  - Access the PhylogatR website (http://phylogatr.osc.edu) and download all the data available.
- - Open the folder Fonseca_et_al_scripts access the subfolder **Creating_working_dataset**.
+ - Open the folder Fonseca_et_al_scripts and access the subfolder **Creating_working_dataset**.
  - Only the script entitled **Main_script.R** is required to generate the working dataset. All other scripts in this subfolder contain functions imported by the main script.
  - Running **Main_script.R** will generate an output file that can then be used to perform the following analyses. 
 
