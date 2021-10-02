@@ -1,4 +1,4 @@
-# Pleistocene glaciations caused the latitudinal gradient of within-species genetic diversity
+# Quaternary climate oscillations caused the latitudinal gradient of intraspecific genetic diversity
 
 This repository contains the scripts used to generate the working dataset and analyze the dataset used in Fonseca et al. (Fonseca EM, Pelletier TA, Decker SK,Parsons DJ, Carstens BC. Pleistocene glaciations caused the latitudinal gradient of within-species genetic diversity. In review).
 
